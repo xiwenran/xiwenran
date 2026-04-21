@@ -4,6 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=%E6%8A%AC%E5%A4%B4%E6%9C%9B%E5%A4%A9%20%C2%B7%20%E4%BD%8E%E5%A4%B4%E8%B5%B6%E8%B7%AF%20%C2%B7%20%E8%8E%AB%E9%97%AE%E5%89%8D%E7%A8%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=%E8%A5%BF%E9%87%8C&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="80" />
+
 </div>
 
 <br/>
@@ -34,63 +36,80 @@
 
 <br/>
 
-<h2 align="center">🛠 技术栈</h2>
+## 🛠 技术栈
 
-<div align="center">
+**编程**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/-React-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/-Electron-1e1e2e?style=flat-square&logo=electron&logoColor=9FEAF9)
 
-![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Lark](https://img.shields.io/badge/-飞书-00D6B9?style=flat-square&logo=lark&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+**AI 生态**
 
-</div>
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-1e1e2e?style=flat-square&logo=anthropic&logoColor=D97757)
+![Codex](https://img.shields.io/badge/-Codex-1e1e2e?style=flat-square&logo=openai&logoColor=white)
+![Lark](https://img.shields.io/badge/-飞书-1e1e2e?style=flat-square&logo=lark&logoColor=00D6B9)
+![Obsidian](https://img.shields.io/badge/-Obsidian-1e1e2e?style=flat-square&logo=obsidian&logoColor=7C3AED)
 
 <br/>
 
-<h2 align="center">🧩 活跃项目</h2>
+## 🧩 活跃项目
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**🎨 内容生产**
+### 🎨 内容生产
 
-[`PPT_XL`](https://github.com/xiwenran/PPT_XL) PPTX AI 背景刷新 · [`ppt-batch-tool`](https://github.com/xiwenran/ppt-batch-tool) PPT 批量导 PNG · [`融景`](https://github.com/xiwenran/rongjing) 透视合成实拍场景 · `BJFM` 封面批量
+- [**PPT_XL**](https://github.com/xiwenran/PPT_XL)  
+  PPTX AI 背景刷新
+- [**ppt-batch-tool**](https://github.com/xiwenran/ppt-batch-tool)  
+  PPT 批量导 PNG
+- [**融景**](https://github.com/xiwenran/rongjing)  
+  透视合成实拍场景
+- **BJFM**  
+  封面批量生成
 
-**🚀 自动发布**
+</td>
+<td width="33%" valign="top">
 
-[`bjfb`](https://github.com/xiwenran/bjfb) 飞书驱动发小红书/抖音 · [`xhsbj`](https://github.com/xiwenran/xhsbj) Electron 内容工作台 · [`teacher`](https://github.com/xiwenran/teacher) 课件逐字稿 + 飞书归档
+### 🚀 自动发布
 
-**🧠 基础设施**
+- [**bjfb**](https://github.com/xiwenran/bjfb)  
+  飞书驱动发小红书/抖音
+- [**xhsbj**](https://github.com/xiwenran/xhsbj)  
+  Electron 内容工作台
+- [**teacher**](https://github.com/xiwenran/teacher)  
+  课件逐字稿 + 飞书归档
 
-[`Echo`](https://github.com/xiwenran/Echo) 多 Agent 协作框架 · [`lark-knowledge`](https://github.com/xiwenran/lark-knowledge) 飞书知识库生产线 · [`claude-code-guide`](https://github.com/xiwenran/claude-code-guide) CC 完全指南
+</td>
+<td width="33%" valign="top">
 
-</div>
+### 🧠 基础设施
+
+- [**Echo**](https://github.com/xiwenran/Echo)  
+  多 Agent 协作框架
+- [**lark-knowledge**](https://github.com/xiwenran/lark-knowledge)  
+  飞书知识库生产线
+- [**claude-code-guide**](https://github.com/xiwenran/claude-code-guide)  
+  CC 完全指南
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<h2 align="center">🤖 我怎么和 AI 协作</h2>
+## 🤖 我怎么和 AI 协作
 
-<div align="center">
+三模型分工 —— 强模型决策、代码模型实现、文本模型沉淀,不混用:
 
-三模型分工 —— 强模型决策、代码模型实现、文本模型沉淀,不混用
+- 👑 **决策层** · 项目负责人 · 高风险改动把关 · merge 冲突解决
+- 👷 **执行层** · 代码工人 · 机械性实现 · 自主读代码诊断修 bug
+- ✍️ **沉淀层** · 文本工人 · 长文档 · 方案复盘 · Obsidian 捕获
 
-👑 **决策层** · 项目负责人 · 高风险改动把关 · merge 冲突解决
-
-👷 **执行层** · 代码工人 · 机械性实现 · 自主读代码诊断修 bug
-
-✍️ **沉淀层** · 文本工人 · 长文档 · 方案复盘 · Obsidian 捕获
-
-横切机制 —— 冷眼审查 · 圆桌讨论 · 三档失败链 · 所有规则物理化落到 `CLAUDE.md`
-
-</div>
+**横切机制** —— 冷眼审查 · 圆桌讨论 · 三档失败链 · 所有规则物理化落到 `CLAUDE.md`
 
 <br/>
 
@@ -119,6 +138,6 @@
 
 <sub>一层一层来 · 卖资料 → 卖效率 → 卖方法 → 卖信任</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=80&section=footer" width="100%" />
 
 </div>
