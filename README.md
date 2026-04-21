@@ -125,6 +125,22 @@
 
 <div align="center">
 
+## Contribution
+
+<br/>
+
+![snake](https://raw.githubusercontent.com/xiwenran/xiwenran/output/github-contribution-grid-snake.svg)
+
+<br/><br/>
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
 ## Languages
 
 <br/>
