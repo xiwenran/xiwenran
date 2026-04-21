@@ -4,21 +4,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=%E6%8A%AC%E5%A4%B4%E6%9C%9B%E5%A4%A9%20%C2%B7%20%E4%BD%8E%E5%A4%B4%E8%B5%B6%E8%B7%AF%20%C2%B7%20%E8%8E%AB%E9%97%AE%E5%89%8D%E7%A8%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=%E8%A5%BF%E9%87%8C&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
 
-<br/><br/>
-
-![Views](https://komarev.com/ghpvc/?username=xiwenran&style=flat-square&color=8B5CF6&label=Profile+Views)
-
 </div>
 
 <br/>
 
 ## 👋 关于我
 
+<div align="center">
+
 嗨,我是**西里**,做**教师虚拟资料**小生意的内容创业者。
 
-一半时间做内容(小红书 + 抖音 + 私域),一半时间做 **AI 工具** —— 把自己从重复劳动里解放出来,让单人也能跑出团队产能。
+一半时间做内容(小红书 + 抖音 + 私域),一半时间做 **AI 工具** —— 把自己从重复劳动里解放出来。
 
 信仰 **工具的复利 > 短期爆量** · **一层一层来**:卖资料 → 卖效率 → 卖方法 → 卖信任。
+
+</div>
 
 <br/>
 
@@ -58,26 +58,39 @@
 
 ## 🧩 活跃项目
 
-**🎨 内容生产**  
+<div align="center">
+
+**🎨 内容生产**
+
 [`PPT_XL`](https://github.com/xiwenran/PPT_XL) PPTX AI 背景刷新 · [`ppt-batch-tool`](https://github.com/xiwenran/ppt-batch-tool) PPT 批量导 PNG · [`融景`](https://github.com/xiwenran/rongjing) 透视合成实拍场景 · `BJFM` 封面批量
 
-**🚀 自动发布**  
+**🚀 自动发布**
+
 [`bjfb`](https://github.com/xiwenran/bjfb) 飞书驱动发小红书/抖音 · [`xhsbj`](https://github.com/xiwenran/xhsbj) Electron 内容工作台 · [`teacher`](https://github.com/xiwenran/teacher) 课件逐字稿 + 飞书归档
 
-**🧠 基础设施**  
+**🧠 基础设施**
+
 [`Echo`](https://github.com/xiwenran/Echo) 多 Agent 协作框架 · [`lark-knowledge`](https://github.com/xiwenran/lark-knowledge) 飞书知识库生产线 · [`claude-code-guide`](https://github.com/xiwenran/claude-code-guide) CC 完全指南
+
+</div>
 
 <br/>
 
 ## 🤖 我怎么和 AI 协作
 
-三模型分工 —— 强模型决策、代码模型实现、文本模型沉淀,不混用:
+<div align="center">
 
-- 👑 **决策层** 项目负责人 · 高风险改动把关 · merge 冲突解决
-- 👷 **执行层** 代码工人 · 机械性实现 · 自主读代码诊断修 bug
-- ✍️ **沉淀层** 文本工人 · 长文档 · 方案复盘 · Obsidian 捕获
+三模型分工 —— 强模型决策、代码模型实现、文本模型沉淀,不混用
 
-横切机制 —— 冷眼审查、圆桌讨论、三档失败链(执行层重试 → 沉淀层兜底 → 决策层亲自)、所有规则物理化落到 `CLAUDE.md`
+👑 **决策层** · 项目负责人 · 高风险改动把关 · merge 冲突解决
+
+👷 **执行层** · 代码工人 · 机械性实现 · 自主读代码诊断修 bug
+
+✍️ **沉淀层** · 文本工人 · 长文档 · 方案复盘 · Obsidian 捕获
+
+横切机制 —— 冷眼审查 · 圆桌讨论 · 三档失败链 · 所有规则物理化落到 `CLAUDE.md`
+
+</div>
 
 <br/>
 
