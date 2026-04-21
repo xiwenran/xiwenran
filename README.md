@@ -1,12 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=260&section=header&text=xiwenran&fontSize=80&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Content%20Creator%20·%20AI%20Builder%20·%20Claude%20Code%20Power%20User&descAlignY=56&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=xiwenran&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Content%20Creator%20·%20AI%20Builder%20·%20Claude%20Code%20Power%20User&descAlignY=60&descSize=16" width="100%" />
+
+</div>
 
 <br/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=%E5%8D%96%E8%B5%84%E6%96%99+%E2%86%92+%E5%8D%96%E6%95%88%E7%8E%87+%E2%86%92+%E5%8D%96%E6%96%B9%E6%B3%95+%E2%86%92+%E5%8D%96%E4%BF%A1%E4%BB%BB;%E7%94%A8+Claude+Code+%E6%8A%8A%E5%85%A8%E9%93%BE%E8%B7%AF%E8%87%AA%E5%8A%A8%E5%8C%96;%E6%95%99%E5%B8%88%E8%99%9A%E6%8B%9F%E8%B5%84%E6%96%99+%C2%B7+%E5%B0%8F%E7%BA%A2%E4%B9%A6%2B%E6%8A%96%E9%9F%B3%2B%E7%A7%81%E5%9F%9F)](https://git.io/typing-svg)
+<table>
+<tr>
+<td width="220" align="center">
+  <img src="./assets/avatar.png" width="180" style="border-radius:50%" alt="avatar" />
+</td>
+<td valign="middle">
 
-<br/>
+### 👋 Hi, I'm xiwenran
+
+> **内容型业务创业者** · 教师虚拟资料 · 小红书+抖音+私域 · 已跑一年+
+>
+> **AI Builder** · 从纯人工到 Claude Code 驱动全链路自动化
+>
+> **收入 4 层** 同时推进 —— 卖资料(当前) → 卖效率 → 卖方法 → 卖信任
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=%E7%94%A8+Claude+Code+%E6%8A%8A%E5%85%A8%E9%93%BE%E8%B7%AF%E8%87%AA%E5%8A%A8%E5%8C%96;%E4%B8%89%E6%A8%A1%E5%9E%8B%E5%88%86%E5%B7%A5%3AOpus+%2B+Codex+%2B+Sonnet;%E8%A7%84%E5%88%99%E7%89%A9%E7%90%86%E5%8C%96%E5%88%B0+CLAUDE.md%EF%BC%8C%E4%B8%8D%E9%9D%A0%E8%AE%B0%E5%BF%86)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -19,14 +40,6 @@
 ![Views](https://komarev.com/ghpvc/?username=xiwenran&style=flat-square&color=8B5CF6&label=Profile+Views)
 
 </div>
-
-<br/>
-
-### 👋 About
-
-> 内容型业务创业者 · 教师虚拟资料 · 已跑一年+ · 从"纯人工"转"工具辅助"
->
-> **收入 4 层** 同时推进,只是权重不同 —— 卖资料(当前) → 卖效率 → 卖方法 → 卖信任
 
 <br/>
 
@@ -75,14 +88,22 @@
 
 <br/>
 
-### 📊 Stats
+### 🐍 Contribution Snake
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=xiwenran&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=555" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiwenran&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=8B5CF6&text_color=555" />
+![snake gif](https://raw.githubusercontent.com/xiwenran/xiwenran/output/github-contribution-grid-snake.svg)
 
-<img src="https://streak-stats.demolab.com?user=xiwenran&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+</div>
+
+<br/>
+
+### 📊 Languages & Streak
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiwenran&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=555" />
+<img height="165" src="https://streak-stats.demolab.com?user=xiwenran&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 
 </div>
 
@@ -90,6 +111,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
 
 </div>
