@@ -8,7 +8,7 @@
 
 <br/>
 
-## 👋 关于我
+<h2 align="center">👋 关于我</h2>
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-## 🏷 我在做什么
+<h2 align="center">🏷 我在做什么</h2>
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-## 🛠 技术栈
+<h2 align="center">🛠 技术栈</h2>
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 <br/>
 
-## 🧩 活跃项目
+<h2 align="center">🧩 活跃项目</h2>
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 <br/>
 
-## 🤖 我怎么和 AI 协作
+<h2 align="center">🤖 我怎么和 AI 协作</h2>
 
 <div align="center">
 
@@ -94,7 +94,7 @@
 
 <br/>
 
-## 🐍 贡献轨迹
+<h2 align="center">🐍 贡献轨迹</h2>
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 <br/>
 
-## 📊 GitHub 数据
+<h2 align="center">📊 GitHub 数据</h2>
 
 <div align="center">
 
