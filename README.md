@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=%E6%8A%AC%E5%A4%B4%E6%9C%9B%E5%A4%A9%20%C2%B7%20%E4%BD%8E%E5%A4%B4%E8%B5%B6%E8%B7%AF%20%C2%B7%20%E8%8E%AB%E9%97%AE%E5%89%8D%E7%A8%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=%E8%A5%BF%E9%87%8C%20%C2%B7%20xiwenran&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=%E6%8A%AC%E5%A4%B4%E6%9C%9B%E5%A4%A9%20%C2%B7%20%E4%BD%8E%E5%A4%B4%E8%B5%B6%E8%B7%AF%20%C2%B7%20%E8%8E%AB%E9%97%AE%E5%89%8D%E7%A8%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=%E8%A5%BF%E9%87%8C&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br/><br/>
 
@@ -18,7 +18,7 @@
 
 一半时间做内容(小红书 + 抖音 + 私域),一半时间做 **AI 工具** —— 把自己从重复劳动里解放出来,让单人也能跑出团队产能。
 
-> 相信 —— **工具的复利 > 短期爆量** · **一层一层来**:卖资料 → 卖效率 → 卖方法 → 卖信任。
+信仰 **工具的复利 > 短期爆量** · **一层一层来**:卖资料 → 卖效率 → 卖方法 → 卖信任。
 
 <br/>
 
@@ -44,9 +44,10 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
 ![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Lark](https://img.shields.io/badge/-飞书-00D6B9?style=flat-square&logo=lark&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
@@ -70,13 +71,13 @@
 
 ## 🤖 我怎么和 AI 协作
 
-| 角色 | 模型 | 职责 |
-|:---:|:---|:---|
-| 👑 | **Opus 4.7** | 项目负责人 · 高风险决策 · 最终把关 |
-| 👷 | **Codex GPT-5.4** | 代码工人 · 机械性实现 · 自主诊断 |
-| ✍️ | **Sonnet 4.6** | 文本工人 · 长文档 · 方案复盘 |
+三模型分工 —— 强模型决策、代码模型实现、文本模型沉淀,不混用:
 
-**横切基础设施** —— 冷眼审查(高风险改动独立 Agent 看 diff) · 圆桌讨论(多 Agent 评审方向) · Obsidian 自动捕获 · 三档失败链(Codex 重试 → Sonnet 兜底 → Opus 亲自)
+- 👑 **决策层** 项目负责人 · 高风险改动把关 · merge 冲突解决
+- 👷 **执行层** 代码工人 · 机械性实现 · 自主读代码诊断修 bug
+- ✍️ **沉淀层** 文本工人 · 长文档 · 方案复盘 · Obsidian 捕获
+
+横切机制 —— 冷眼审查、圆桌讨论、三档失败链(执行层重试 → 沉淀层兜底 → 决策层亲自)、所有规则物理化落到 `CLAUDE.md`
 
 <br/>
 
