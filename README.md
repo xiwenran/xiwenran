@@ -22,6 +22,24 @@
 
 <br/>
 
+<h2 align="center">🤖 我怎么和 AI 协作</h2>
+
+<div align="center">
+
+三模型分工 —— 强模型决策、代码模型实现、文本模型沉淀,不混用
+
+👑 **决策层** · 项目负责人 · 高风险改动把关 · merge 冲突解决
+
+👷 **执行层** · 代码工人 · 机械性实现 · 自主读代码诊断修 bug
+
+✍️ **沉淀层** · 文本工人 · 长文档 · 方案复盘 · Obsidian 捕获
+
+横切机制 —— 冷眼审查 · 圆桌讨论 · 三档失败链 · 所有规则物理化落到 `CLAUDE.md`
+
+</div>
+
+<br/>
+
 <h2 align="center">🏷 我在做什么</h2>
 
 <div align="center">
@@ -71,24 +89,6 @@
 **🧠 基础设施**
 
 [`Echo`](https://github.com/xiwenran/Echo) 多 Agent 协作框架 · [`lark-knowledge`](https://github.com/xiwenran/lark-knowledge) 飞书知识库生产线 · [`claude-code-guide`](https://github.com/xiwenran/claude-code-guide) CC 完全指南
-
-</div>
-
-<br/>
-
-<h2 align="center">🤖 我怎么和 AI 协作</h2>
-
-<div align="center">
-
-三模型分工 —— 强模型决策、代码模型实现、文本模型沉淀,不混用
-
-👑 **决策层** · 项目负责人 · 高风险改动把关 · merge 冲突解决
-
-👷 **执行层** · 代码工人 · 机械性实现 · 自主读代码诊断修 bug
-
-✍️ **沉淀层** · 文本工人 · 长文档 · 方案复盘 · Obsidian 捕获
-
-横切机制 —— 冷眼审查 · 圆桌讨论 · 三档失败链 · 所有规则物理化落到 `CLAUDE.md`
 
 </div>
 
