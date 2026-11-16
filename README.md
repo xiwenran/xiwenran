@@ -1,124 +1,32 @@
 <div align="center">
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=%E6%8A%AC%E5%A4%B4%E6%9C%9B%E5%A4%A9%20%C2%B7%20%E4%BD%8E%E5%A4%B4%E8%B5%B6%E8%B7%AF%20%C2%B7%20%E8%8E%AB%E9%97%AE%E5%89%8D%E7%A8%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=%E8%A5%BF%E9%87%8C&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=%E6%8A%AC%E5%A4%B4%E6%9C%9B%E5%A4%A9%20%C2%B7%20%E4%BD%8E%E5%A4%B4%E8%B5%B6%E8%B7%AF%20%C2%B7%20%E8%8E%AB%E9%97%AE%E5%89%8D%E7%A8%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=%E8%A5%BF%E9%87%8C&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="西里 · 抬头望天，低头赶路，莫问前程" />
 
 </div>
 
-<br/>
+## 关于我
 
-<h2 align="center">👋 关于我</h2>
+我是西里，做教师资料和内容生意。课件要做成资料，也要做成老师一眼能看懂的展示图。活儿一多，导图、做封面、排期这些小事就会反复占用时间。我做的很多 AI 工具，都是从这些手头的活儿里长出来的
 
-<div align="center">
+## 我怎么用 Codex 和 Echo 协作
 
-嗨,我是**西里**,做**教师虚拟资料**小生意的内容创业者。
+**Codex 是我做事的地方。** 我定目标、给参考、做取舍。主会话拆任务、动手做，遇到适合单独处理的开发或排查，再交给子代理。最后回到主会话，把结果放回原来的使用场景核对。做课件工具，就拿实际课件跑一遍，看导出来的图能不能用
 
-一半时间做内容(小红书 + 抖音 + 私域),一半时间做 **AI 工具** —— 把自己从重复劳动里解放出来。
+**Echo 是我给这套协作搭的底座。** 经常要重讲的要求，我写成规则。反复做的步骤，我整理成 Skill，让 Codex 下次可以照着做。项目做到了哪、踩过什么坑、下次怎么判断，我会记在 Obsidian，换个会话也能接着做
 
-信仰 **工具的复利 > 短期爆量** · **一层一层来**:卖资料 → 卖效率 → 卖方法 → 卖信任。
+**工作台接住已经用顺的工具。** 比如课件展示图，原来得先导出页面，再把截图一张张放进实拍背景里。现在我把课件导图、实拍合成和内容排期收进同一个工作台。新功能先在 Codex 里用真实资料试，跑顺了再放进工作台
 
-</div>
+## 我在做的项目
 
-<br/>
+- **教师资料工具链**。围绕课件、逐字稿和教学设计做工具，覆盖资料制作和展示素材准备
+- **xhsbj 内容工作台**。把课件导图、实拍合成、笔记素材和发布排期放到一起，服务日常内容生产
+- **Echo**。维护 Codex 协作规则、常用 Skills 和项目记录，让日常工作能在不同会话接着做
 
-<h2 align="center">🤖 我怎么和 AI 协作</h2>
+### 公开仓库
 
-<div align="center">
+- [lark-knowledge](https://github.com/xiwenran/lark-knowledge) · 把外部资料整理进飞书多维表格，再汇成专题知识库
+- [material-exporter](https://github.com/xiwenran/material-exporter) · 批量把 PPT 和 Word 导成图片的早期工具，仓库保留供参考
 
-三模型分工 —— 强模型决策、代码模型实现、文本模型沉淀,不混用
+## 贡献轨迹
 
-👑 **决策层** · 项目负责人 · 高风险改动把关 · merge 冲突解决
-
-👷 **执行层** · 代码工人 · 机械性实现 · 自主读代码诊断修 bug
-
-✍️ **沉淀层** · 文本工人 · 长文档 · 方案复盘 · Obsidian 捕获
-
-横切机制 —— 冷眼审查 · 圆桌讨论 · 三档失败链 · 所有规则物理化落到 `CLAUDE.md`
-
-</div>
-
-<br/>
-
-<h2 align="center">🏷 我在做什么</h2>
-
-<div align="center">
-
-`🎓 教师虚拟资料`　`📱 小红书 · 抖音`　`⚡ 内容发布自动化`　`🎨 PPT · 课件自动化`
-
-`🤖 AI 工具开发`　`🛠 Claude Code 重度用户`　`📚 Obsidian 知识管理`　`🪄 飞书生态`
-
-</div>
-
-<br/>
-
-<h2 align="center">🛠 技术栈</h2>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Lark](https://img.shields.io/badge/-飞书-00D6B9?style=flat-square&logo=lark&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-
-</div>
-
-<br/>
-
-<h2 align="center">🧩 活跃项目</h2>
-
-<div align="center">
-
-**🎨 内容生产**
-
-[`PPT_XL`](https://github.com/xiwenran/PPT_XL) PPTX AI 背景刷新 · [`ppt-batch-tool`](https://github.com/xiwenran/ppt-batch-tool) PPT 批量导 PNG · [`融景`](https://github.com/xiwenran/rongjing) 透视合成实拍场景 · `BJFM` 封面批量
-
-**🚀 自动发布**
-
-[`bjfb`](https://github.com/xiwenran/bjfb) 飞书驱动发小红书/抖音 · [`xhsbj`](https://github.com/xiwenran/xhsbj) Electron 内容工作台 · [`teacher`](https://github.com/xiwenran/teacher) 课件逐字稿 + 飞书归档
-
-**🧠 基础设施**
-
-[`Echo`](https://github.com/xiwenran/Echo) 多 Agent 协作框架 · [`lark-knowledge`](https://github.com/xiwenran/lark-knowledge) 飞书知识库生产线 · [`claude-code-guide`](https://github.com/xiwenran/claude-code-guide) CC 完全指南
-
-</div>
-
-<br/>
-
-<h2 align="center">🐍 贡献轨迹</h2>
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/xiwenran/xiwenran/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<br/>
-
-<h2 align="center">📊 GitHub 数据</h2>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiwenran&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=555" />
-<img height="160" src="https://streak-stats.demolab.com?user=xiwenran&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>一层一层来 · 卖资料 → 卖效率 → 卖方法 → 卖信任</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%" />
-
-</div>
+![GitHub 贡献轨迹](https://raw.githubusercontent.com/xiwenran/xiwenran/output/github-contribution-grid-snake.svg)
